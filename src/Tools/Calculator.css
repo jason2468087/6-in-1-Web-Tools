@@ -1,0 +1,213 @@
+.calculator{
+    background-color: rgb(29,41,58);
+}
+
+.displayPanel{
+    width:44.5vh;
+    height:10vh;
+
+    user-select: none;
+    display:table-cell;
+    text-align: right;
+    vertical-align: middle;
+
+    color:hsl(0,0%,95%);
+
+    font-size: calc(0.3cm + 4vh);
+    font-weight: normal;
+}
+
+.keyboard{
+    border-collapse: separate;
+    border-spacing: 1vh;
+}
+
+.thinButton{
+    width: 10vh;
+    min-height: 0.8cm;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color: rgb(53,67,87);
+
+    font-size:  calc(0.3cm + 2vh);
+    font-weight: lighter;
+}
+
+.thinButton:hover{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color: rgb(91, 56, 250);
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: lighter;
+}
+
+.boldButton{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color: rgb(53,67,87);
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: bolder;
+}
+
+.boldButton:hover{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color: rgb(91, 56, 250);
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: bolder;
+}
+
+.selectedButton{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color: rgb(108,99,255);
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: bolder;
+}
+
+.ACButton{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color: rgb(53,67,87);
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: lighter;
+}
+
+.ACButton:hover{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color:red;
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: lighter;
+}
+.DelButton{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color: rgb(53,67,87);
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: lighter;
+}
+
+.DelButton:hover{
+    width: 10vh;
+    height: 10vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+    background-color:Black;
+
+    font-size: calc(0.3cm + 2vh);
+    font-weight: lighter;
+}
+
+.recordText{
+    width: 45vh;
+    height: 5vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+
+    font-size: calc(0.2cm + 1vh);
+    font-weight: bold;
+}
+
+.record1{
+    width: 45vh;
+    height: 1vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,95%);
+
+    font-size: calc(0.2cm + 1vh);
+    font-weight: bold;
+}
+
+.record2{
+    width: 45vh;
+    height: 1vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,65%);
+    
+    font-size: calc(0.2cm + 1vh);
+    font-weight: normal;
+}
+
+.record3{
+    width: 45vh;
+    height: 1vh;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: hsl(0,0%,50%);
+    
+    font-size: calc(0.2cm + 1vh);
+    font-weight: normal;
+}

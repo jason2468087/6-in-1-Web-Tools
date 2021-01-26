@@ -1,0 +1,7 @@
+.digitalClock{
+    color:hsl(0,0%,95%);
+
+    font-size: calc(1cm + 5vh);
+    font-weight: normal;
+}
+
