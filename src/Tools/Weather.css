@@ -1,0 +1,88 @@
+.city{
+    color:hsl(0,0%,95%);
+
+    user-select: none;
+    vertical-align: middle;
+
+}
+
+.temp{
+    color:hsl(0,0%,95%);
+
+    user-select: none;
+    text-align: left;
+    vertical-align: middle;
+
+    font-size: calc(1.5cm + 5vh);
+    font-weight: normal;
+}
+
+.temp_max{
+    padding-left: 5vh;
+
+    color:hsl(0,0%,95%);
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    font-size: calc(0.4cm + 2vh);
+    font-weight: normal;
+}
+
+.weatherTable{
+    border-collapse: separate;
+    border-spacing: 3vh;
+}
+
+.weatherIcon{
+    width:8vh;
+    height:8vh;
+
+    margin:0;
+}
+
+.weatherCell{
+    width:15vh; 
+    height:15vh;
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    align-items:center;
+    align-content: center;
+
+    background-color: rgb(53,67,87); 
+
+    padding: 2vh;
+}
+
+.weatherType{
+    width:12vh; min-width: 1.75cm;
+
+    color:hsl(0,0%,95%);
+
+    margin: -1vh;
+    padding: 0;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    font-size: calc(0.1cm + 2vh);
+    font-weight: normal;
+}
+
+.weatherData{
+    color:hsl(0,0%,95%);
+
+    margin: 0;
+    padding: 0;
+
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+    
+    font-size: calc(0.1cm + 2vh);
+    font-weight:lighter;
+}

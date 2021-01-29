@@ -1,0 +1,143 @@
+.timer{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:hsl(0,0%,95%);
+
+    font-size: calc(1.5cm + 4vh);
+    font-weight: normal;
+}
+
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startButton{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:hsl(0,0%,95%);
+    background-color: rgb(15,23,34);
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+
+.startButton:hover{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:hsl(0,0%,95%);
+    background-color: rgb(53,67,87);
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+
+.pauseButton{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:red;
+    border: 1px solid red;
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+
+.pauseButton:hover{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:hsl(0,0%,95%);
+    background-color:red;
+    border: 1px solid red;
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+
+.resumeButton{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:green;
+    border: 1px solid green;
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+    margin-left: 3vh; margin-right: 3vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+
+.resumeButton:hover{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:hsl(0,0%,95%);
+    background-color:green;
+    border: 1px solid green;
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+    margin-left: 3vh; margin-right: 3vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+
+.resetButton{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color: rgb(15,23,34);
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+    margin-left: 3vh; margin-right: 3vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+.resetButton:hover{
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+
+    color:hsl(0,0%,95%);
+    border-radius: 10px;
+
+    padding: 1vh 4vh 1vh 4vh;
+    margin-left: 3vh; margin-right: 3vh;
+
+    font-size: calc(0.8cm + 3vh);
+    font-weight: normal;
+}
+
+.hideContainer{
+    display:none;
+}

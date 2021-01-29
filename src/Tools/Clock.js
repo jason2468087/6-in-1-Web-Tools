@@ -2,19 +2,6 @@ import React,{Component} from "react";
 import ReactDOM from 'react-dom';
 import './Clock.css';
 
-/*class Stopwatch extends Component{
-    state={}
-    render(){
-        return(
-            <div className="App">
-                <h1>Current Time</h1>
-                <h2>It is {this.props.date.toLocaleTimeString()}</h2>
-                
-            </div>
-        );
-    }
-}*/
-
 class Clock extends Component {
     constructor(props) {
 
