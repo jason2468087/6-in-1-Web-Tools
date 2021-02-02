@@ -1,4 +1,4 @@
-# Web tool application made with Reactjs
+# Web tool applications made with Reactjs
 
 ## Introduction
 This is a web application which provide tools which use different programming technique. On the left, it is the panel containing all tools of this application. The right panel display the chosen tool. The application also contain hover effects and switching between components in order to improve user experience.
