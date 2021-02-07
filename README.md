@@ -3,6 +3,16 @@
 ## Introduction
 This is a web application which provide tools which use different programming technique. On the left, it is the panel containing all tools of this application. The right panel display the chosen tool. The application also contain hover effects and switching between components in order to improve user experience.
 
+## Dependencies
+- Reactjs 16.7.0
+- CSS 3
+
+## Skills
+- ReactDOM
+- React state
+- React router and switch
+- Web API query
+
 ## Calculator
 This program react to button clicks then manipulate strings and numbers to do calculation. The button will light with fibrant colour whenever user's mouse move over it. The arithmetic symbols are programmed to light up to indicate the current arithmetic operation. Moreover, three latest calculation records are displayed.
 
