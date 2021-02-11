@@ -8,10 +8,12 @@ This is a web application which provide tools which use different programming te
 - CSS 3
 
 ## Skills
-- ReactDOM
-- React state
-- React router and switch
+- Access local storage
 - Web API query
+- React state
+- React hook
+- React router and switch
+- React class component
 
 ## Calculator
 This program react to button clicks then manipulate strings and numbers to do calculation. The button will light with fibrant colour whenever user's mouse move over it. The arithmetic symbols are programmed to light up to indicate the current arithmetic operation. Moreover, three latest calculation records are displayed.
