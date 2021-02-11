@@ -30,6 +30,10 @@
     font-weight: normal;
 }
 
+.weather_state_img{
+    width: calc(2.5cm + 10vh);
+}
+
 .weatherTable{
     border-collapse: separate;
     border-spacing: 3vh;

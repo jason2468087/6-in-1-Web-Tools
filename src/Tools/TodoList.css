@@ -1,0 +1,75 @@
+.todoList{
+    height: 70%;
+
+    position: relative;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.taskInput{
+    width: 40vw;
+
+    margin-right: 0.2cm;
+
+    color: hsl(0,0%,95%);
+    background-color: transparent;
+    border: 3px solid hsl(0,0%,75%);
+
+    font-size:  1.5em;
+    font-weight: lighter;
+}
+
+.select{
+    height:1.8em;
+
+    margin-left: 0.03cm;
+
+    color: hsl(0,0%,95%);
+    background-color: transparent;
+    border: 3px solid hsl(0,0%,75%);
+
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+
+option{
+    height:1.8em;
+
+    margin-left: 0.03cm;
+
+    color: black;
+    background-color: transparent;
+    border: 3px solid hsl(0,0%,75%);
+
+    font-size: 1em;
+    font-weight: lighter;
+}
+
+.addButton{
+
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+
+    background-color:transparent;
+    border: 0px;
+
+    font-size:  1.5em;
+    font-weight: lighter;
+}
+
+.addButtonIcon{
+    width: 1.7em;
+    height: 1.7em;
+
+    margin-left: 0.1cm;
+}
+
+.taskList{
+    width: 100%;
+    margin-top: 1cm;
+}

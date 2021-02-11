@@ -16,10 +16,10 @@
 }
 
 .toolGrid{
-  width: 80%;
+  width: 90%;
 
   position: relative;
-  left: 10%;
+  left: 5%;
 
   display: flex;
   justify-content: space-around;
@@ -67,7 +67,7 @@
 }
 
 .toolIcon{
-  width: 12vh;
+  width: 11vh;
 
   user-select: none;
 
@@ -79,7 +79,7 @@
 }
 
 .toolIcon:hover{
-  width: 12vh;
+  width: 11vh;
 
   user-select: none;
 
@@ -91,7 +91,7 @@
 }
 
 .selectedIcon{
-  width: 12vh;
+  width: 10vh;
 
   user-select: none;
   

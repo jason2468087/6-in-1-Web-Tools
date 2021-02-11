@@ -1,4 +1,4 @@
-import React,{useState} from "react";
+import React,{useState,useEffect} from "react";
 import './Calculator.css';
 
 function Calculator() {
@@ -170,7 +170,8 @@ function Calculator() {
 
         if (ans.toString().length > 8)
         {
-            ans = ans.toFixed(7);
+            ans = parseInt(ans*1000000)/1000000;
+            /*ans = ans.toFixed(7);*/
         }
         setRecord3(record2);
         setRecord2(record1);
