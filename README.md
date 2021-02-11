@@ -46,4 +46,4 @@ This canvas track mouse activities and add strokes along the mouse cursor's trac
 ## Respoindsive Layout
 This application refresh its layout according to the size of browser window for better user experience.
 
-![alt text](https://github.com/jason2468087/ReactWebApplication/blob/main/result/Respondsive%20Design.png?raw=true)
+![alt text](https://github.com/jason2468087/ReactWebApplication/blob/main/result/Respondsive%20Design.png)
