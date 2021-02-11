@@ -26,10 +26,24 @@ The clock tool will read the internal clock time from computer and refresh the p
 ## Stopwatch
 This program also work with internal clock time but with more operations. It switch between "Start", "Pause", "Resume" and "Reset" button. Each will refresh displayed text and the timelapse memory. The button also have hover effects.
 
-
 ![alt text](https://github.com/jason2468087/ReactWebTools/blob/main/result/Web%20Tool%20Stopwatch.png?raw=true)
 
 ## Weather
 The weather tool send query to openweather server to optain the latest weather information of Hong Kong. It is set to refresh every 10 minute.
 
 ![alt text](https://github.com/jason2468087/ReactWebTools/blob/main/result/Web%20Tool%20Weather.png?raw=true)
+
+## Todo List
+A web todo list that store and fetch user recorded tasks in local storage dynamically.
+
+![alt text](https://github.com/jason2468087/ReactWebApplication/blob/main/result/Web%20Tool%20TodoList.png?raw=true)
+
+## Paint
+This canvas track mouse activities and add strokes along the mouse cursor's trace.
+
+![alt text](https://github.com/jason2468087/ReactWebApplication/blob/main/result/Web%20Tool%20Paint.png?raw=true)
+
+## Respoindsive Layout
+This application refresh its layout according to the size of browser window for better user experience.
+
+![alt text](https://github.com/jason2468087/ReactWebApplication/blob/main/result/Respondsive%20Design.png?raw=true)
