@@ -1,4 +1,4 @@
-# Web tool applications made with Reactjs
+# 6-in-1 Web Tools
 
 ## Introduction
 This is a web application which provide tools which use different programming technique. On the left, it is the panel containing all tools of this application. The right panel display the chosen tool. The application also contain hover effects and switching between components in order to improve user experience.
@@ -6,12 +6,12 @@ This is a web application which provide tools which use different programming te
 ## Dependencies
 - Reactjs 16.7.0
 - CSS 3
+- ReactBootstrap 1.4.0
 
 ## Skills
-- Access local storage
+- Local storage
 - Web API query
-- React state
-- React hook
+- React state, props and hooks
 - React router and switch
 - React class component
 
